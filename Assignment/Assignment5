@@ -1,0 +1,35 @@
+#Assignment-1
+
+
+1. Suppose we have two queues, P and Q, and one stack S. We are only allowed to dequeue
+from P and allowed to enqueue into the Q. We can do push and pop from the stack. In this
+program you will be given a permutation of n numbers and asked to check if it is a stack
+permutation or not.
+[Stack permutation: A stack permutation is a ordering of numbers from 1 to n that can
+be obtained from the initial ordering 1, 2, ... n by a sequence of stack operations.]
+
+
+2. Write a program to categorize the words having same length with their frequency of
+occurring in a given text. The list should display the frequency of each word
+corresponding to a specific length taken as an input.
+
+
+3. Suppose 7 persons are recruited in a company to do their specific tasks. Each task
+requires a fixed amount of time to complete and all those tasks are needed to be
+done in a single platform that can be shared by each employee. But as per the
+regulations of the company every employee should report to his/her immediate boss
+after doing the work every 2 units of time only. The following table shows the name
+of the employee, their assigned task number and total time required to complete
+their tasks. Find the order of the employees with different time stamps to
+accomplish the assigned tasks. You have to show starting time, ending time and the
+different time instants at which the employees shared that common platform. Take
+name of the employee as input who will start work first from 0th time instant.
+
+Employee Name Task Number Time to complete
+A 2 10
+B 5 11
+C 7 5
+D 1 8
+E 3 19
+F 6 23
+G 4 11
