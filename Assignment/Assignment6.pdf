@@ -1,0 +1,30 @@
+#Assignment6
+
+1. Write a program for Binary Search Tree to implement the
+following operations:
+a. Insertion
+b. Deletion
+i. Delete node with only child
+ii. Delete node with both children
+c. Finding an element
+d. Finding Min element
+e. Finding Max element
+f. Left child of the given node
+g. Right child of the given node
+h. Finding the number of nodes, leaf nodes, full nodes,
+ancestors, descendants.
+
+
+2. Write a C program to determine the Huffman Coding of each
+and every character present in the text.
+a) Build a Huffman Tree from the characters present in
+the text.
+b) Traverse the Huffman Tree and assign codes to
+characters.
+
+
+3. Write a C Program to implement the Max Heap and then delete
+all the elements from the tree so the deleted elements are in
+sorted order.
+
+****************************************************************
